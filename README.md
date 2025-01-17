@@ -17,11 +17,11 @@ This project demonstrates the implementation of two fundamental search algorithm
 - Ensure you have Python (or the language used) installed on your system.
 - Clone this repository:
   ```bash
-  git clone <repository_url>
+  git clone https://github.com/safiabbasi402/Searching-Algorithm.git
   ```
 - Navigate to the project folder:
   ```bash
-  cd <project_folder>
+cd Searching-Algorithm
   ```
 
 ### **Execution**
