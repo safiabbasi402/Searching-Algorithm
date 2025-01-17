@@ -21,7 +21,7 @@ This project demonstrates the implementation of two fundamental search algorithm
   ```
 - Navigate to the project folder:
   ```bash
-cd Searching-Algorithm
+  cd Searching-Algorithm
   ```
 
 ### **Execution**
