@@ -111,7 +111,7 @@ Feel free to fork this repository, make improvements, and submit pull requests. 
 ---
 
 ## LinkdIn Post Link
- [Check Here Linkdin Post](https://www.linkedin.com/posts/safiullah-abbasi-a5b203336_programming-algorithms-binarysearch-activity-7286092502464348161-E9wv?utm_source=share&utm_medium=member_android)
+ [Check Here LinkdIn Post By Me](https://www.linkedin.com/posts/safiullah-abbasi-a5b203336_programming-algorithms-binarysearch-activity-7286092502464348161-E9wv?utm_source=share&utm_medium=member_android)
 
 ---
 
